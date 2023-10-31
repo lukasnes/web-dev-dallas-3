@@ -16,4 +16,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | Class | Topic     | Link                |
 | :-------- | :------- | :------------------------- |
 | `Week 1 Day 1` | Development Environment Setup | |
-| `Week 1 Day 2` | Terminal Commands & Git | https://strategiced.zoom.us/rec/share/r1Hse6CSvgXg0HXlNLTYRLRqsiKoE-eDvldm6nYsxiGkvYjNYtSYmMhA7b0RnBPr.0rIYFj_MjImyq-AI |
+| `Week 1 Day 2` | Intro to JS | https://strategiced.zoom.us/rec/share/r1Hse6CSvgXg0HXlNLTYRLRqsiKoE-eDvldm6nYsxiGkvYjNYtSYmMhA7b0RnBPr.0rIYFj_MjImyq-AI |
