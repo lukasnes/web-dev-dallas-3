@@ -18,3 +18,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 1 Day 1` | Development Environment Setup | https://strategiced.zoom.us/rec/share/T4pcNfukOOHKC0kje93rQuvOKynzetWTbz-B_jdIqBNhZOa2szHKb58Wu3nz0RbB.7g_b2R5Ub_Yu4mfF |
 | `Week 1 Day 2` | Intro to JS | https://strategiced.zoom.us/rec/share/r1Hse6CSvgXg0HXlNLTYRLRqsiKoE-eDvldm6nYsxiGkvYjNYtSYmMhA7b0RnBPr.0rIYFj_MjImyq-AI |
 | `Week 1 Day 3` | Arrays and Loops | https://strategiced.zoom.us/rec/share/5I26sdbFRfs9178Y7zOkjqlMRBpEjaYinS07_E7KX4gZi1vFo-jdNI0lASgQKfvv.usG0RU_x_TGeWWcb |
+| `Week 1 Day 4` | Functions and Debugging | https://strategiced.zoom.us/rec/share/5I26sdbFRfs9178Y7zOkjqlMRBpEjaYinS07_E7KX4gZi1vFo-jdNI0lASgQKfvv.usG0RU_x_TGeWWcb |
