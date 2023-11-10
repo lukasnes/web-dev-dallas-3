@@ -21,3 +21,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 1 Day 4` | Functions and Debugging | https://strategiced.zoom.us/rec/share/mAOuN7fmWT8VsVPaPYXma_ZEtAvqo8_BT09pXIC3d1C2z9TtriRxzLKiPkh64sth.pLkKHJKhggfsXVnX |
 | `Week 2 Day 1` | Objects | https://strategiced.zoom.us/rec/share/5u5S2gJ7QHQOSuAkBV32JKBwgj5YxuEWHyue95nU6jMunM1O6NbKDJND2BPfmOFx.W_he3sa8-vDBo1E2 |
 | `Week 2 Day 2` | Arrow Functions and Callbacks | https://strategiced.zoom.us/rec/share/O-rjT7wL7CdBJMF6njjhUlCyemdhXdX7GMBJ_l6i5us7Ro9FG6hO9aaAQXAAyrVR.TlOOEWSVZ80s9DHq |
+| `Week 2 Day 4` | Javascript and the DOM | https://strategiced.zoom.us/rec/share/94ePbPAzRGcTdLaJJyRjd4MBD719xn0VBpw3lyAe5fd5wY5o7vFCxcdyo6ZmkQAI.C8MPK1W1a1fk5eqs |
