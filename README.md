@@ -22,3 +22,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 2 Day 1` | Objects | https://strategiced.zoom.us/rec/share/5u5S2gJ7QHQOSuAkBV32JKBwgj5YxuEWHyue95nU6jMunM1O6NbKDJND2BPfmOFx.W_he3sa8-vDBo1E2 |
 | `Week 2 Day 2` | Arrow Functions and Callbacks | https://strategiced.zoom.us/rec/share/O-rjT7wL7CdBJMF6njjhUlCyemdhXdX7GMBJ_l6i5us7Ro9FG6hO9aaAQXAAyrVR.TlOOEWSVZ80s9DHq |
 | `Week 2 Day 4` | Javascript and the DOM | https://strategiced.zoom.us/rec/share/94ePbPAzRGcTdLaJJyRjd4MBD719xn0VBpw3lyAe5fd5wY5o7vFCxcdyo6ZmkQAI.C8MPK1W1a1fk5eqs |
+| `Week 3 Day 1` | NodeJS and Front End Tooling | https://strategiced.zoom.us/rec/share/3yK7tMEG3qfOmJKRM4EfuFK3pAlDOhxu0bjR3Sc1LK-kCniABaM6q9rR7aPpy95Y.rf4tRFVkKQv4kJog |
