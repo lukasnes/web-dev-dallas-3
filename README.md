@@ -25,3 +25,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 3 Day 1` | NodeJS and Front End Tooling | https://strategiced.zoom.us/rec/share/3yK7tMEG3qfOmJKRM4EfuFK3pAlDOhxu0bjR3Sc1LK-kCniABaM6q9rR7aPpy95Y.rf4tRFVkKQv4kJog |
 | `Week 3 Day 2` | Intro to Express and Templates | https://strategiced.zoom.us/rec/share/W_GBiB-Q68hjlrfjed6DU3_dZWmuoByRSWIKu3jOFzVmt-TDw7WIfeRYOb8H47fZ.Wfb7VyLwGN5uazki |
 | `Week 3 Day 4` | APIs, AJAX, and AXIOS | https://strategiced.zoom.us/rec/share/e-FmzB_joV7hRbGG9WCc-JAsiE3UoX3sOBDWhRzEyaxAkQ6hk5KJAlqm1ULDB1SH.fYoCn049xkAH_tev |
+| `Week 4 Day 1` | REACT Intro | https://strategiced.zoom.us/rec/share/CTUe0915WmqEOs3fr-5bgGy4S3SP1q6GjGq0c7AQtUBO8jKzneIPb-7zhMrjGaOf.IDuQ3ucm16ioiZFL |
