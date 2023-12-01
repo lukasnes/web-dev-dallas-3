@@ -1,0 +1,43 @@
+#kat-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#kitty-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    gap: 50px;
+    width: 600px;
+    height: 400px;
+    border: 5px solid orangered;
+    border-radius: 25px;
+    background-color: rgb(147,230,22);
+}
+#kitty-card img {
+    width: 300px;
+    height: 300px;
+    border: 5px solid orange;
+    border-radius: 50%;
+}
+
+#kitty-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+    width: 200px;
+    color: orangered;
+}
+#kitty-info h2 {
+    font-size: 2em;
+    font-weight: 900;
+}
+#kitty-info p {
+    font-size: 1.5em;
+    font-weight: 700;
+}

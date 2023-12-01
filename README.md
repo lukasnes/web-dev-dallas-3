@@ -26,3 +26,6 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 3 Day 2` | Intro to Express and Templates | https://strategiced.zoom.us/rec/share/W_GBiB-Q68hjlrfjed6DU3_dZWmuoByRSWIKu3jOFzVmt-TDw7WIfeRYOb8H47fZ.Wfb7VyLwGN5uazki |
 | `Week 3 Day 4` | APIs, AJAX, and AXIOS | https://strategiced.zoom.us/rec/share/e-FmzB_joV7hRbGG9WCc-JAsiE3UoX3sOBDWhRzEyaxAkQ6hk5KJAlqm1ULDB1SH.fYoCn049xkAH_tev |
 | `Week 4 Day 1` | REACT Intro | https://strategiced.zoom.us/rec/share/CTUe0915WmqEOs3fr-5bgGy4S3SP1q6GjGq0c7AQtUBO8jKzneIPb-7zhMrjGaOf.IDuQ3ucm16ioiZFL |
+| `Week 4 Day 3` | REACT Router | https://strategiced.zoom.us/rec/share/z1U2ZG86T0eIqJb5KOnSXB8ORaCZW7fnNlx0pMBpDUuVmHdE_lawPTmmWrH4X9OJ.YPXcyHwhcWPAaAnF |
+| `Week 4 Day 4` | Thinking in REACT | https://strategiced.zoom.us/rec/share/96ETgTW0Gb86r_gAjqOmnoO1EVXI7B4lHKgnRN4hlU2S_p-XCFaneyscfBKi8F-c.4agwN4Od7Pc-DJna |
+| `Week 4 Day 5` | Thinking in REACT 2 | https://strategiced.zoom.us/rec/share/B-KMBIzbSQEhgyVWag1617K0AsMJl9aRBz8W2uTOdylHYxfCHhra4Gxp-b4XDNVq.0UaenNxqpmqj8WRk |

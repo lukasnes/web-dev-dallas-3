@@ -1,0 +1,12 @@
+{
+    "1": {
+        "name": "Mr Dragon",
+        "likes": ["Dragons","Music","Sports"],
+        "home": "A cave somewhere"
+    },
+    "2": {
+        "name": "Prince Arthur",
+        "likes": ["Shiny things","Swords","Dancing"],
+        "home": "The castle"
+    }
+}

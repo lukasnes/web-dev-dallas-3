@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Muffins",
+        "imgURL":"/img/kitty.jpg",
+        "kittenId": 1,
+        "description": "Total sweetheart. Loves milk bottles"
+    },
+    {
+        "name":"Fluffy",
+        "imgURL":"/img/kitty-2.jpg",
+        "kittenId": 2,
+        "description": "Fur softer than silk. You won't get enough of this cutie."
+    },
+    {
+        "name":"Jerky",
+        "imgURL":"/img/kitty-3.jpg",
+        "kittenId": 3,
+        "description": "Rambunctious and full of character. Furniture beware!"
+    },
+    {
+        "name":"Mittens",
+        "imgURL":"/img/kitty-4.jpg",
+        "kittenId": 4,
+        "description": "Loves napping, and high places."
+    },
+    {
+        "name":"Rascal",
+        "imgURL":"/img/kitty-5.jpg",
+        "kittenId": 5,
+        "description": "Feral monster, but cute as a button. Loves attention."
+    }
+]
